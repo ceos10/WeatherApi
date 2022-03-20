@@ -1,8 +1,9 @@
 # WeatherApi
-Web API Net 6
+API Versioning with Swagger UI in Web API NET 6
 
 Topics:
 * Api versioning
+* Swagger
 
 Urls:
 * https://levelup.gitconnected.com/net-5-use-api-versioning-4ffe8b0210b2
@@ -11,6 +12,7 @@ Urls:
 * https://referbruv.com/blog/posts/integrating-aspnet-core-api-versions-with-swagger-ui
 * https://www.dotnetnakama.com/blog/all-about-web-api-versioning-in-asp-dotnet-core/
 * https://www.youtube.com/watch?v=IUgurVr73uk
+* https://github.com/skimedic/presentations/tree/main/.NETCore/ASP.NETCore/v6.0/Japikse_VersioningAPIs
 
 Notes:
 * Now if you navigate to the 'swagger/v1/swagger.json' page you should see some more information which will point you in useful direction.
