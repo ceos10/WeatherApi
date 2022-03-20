@@ -15,5 +15,5 @@ Urls:
 * https://github.com/skimedic/presentations/tree/main/.NETCore/ASP.NETCore/v6.0/Japikse_VersioningAPIs
 
 Notes:
-* Now if you navigate to the 'swagger/v1/swagger.json' page you should see some more information which will point you in useful direction.
+* 'swagger/v1/swagger.json'
 
